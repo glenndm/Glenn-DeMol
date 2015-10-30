@@ -1,0 +1,20 @@
+C:\Documenten van Brent\Jaar 3\Software engineering\Yahtzee\Yahtzeee\Yahtzeee\bin\Debug\Yahtzeee.exe.config
+C:\Documenten van Brent\Jaar 3\Software engineering\Yahtzee\Yahtzeee\Yahtzeee\bin\Debug\Yahtzeee.exe
+C:\Documenten van Brent\Jaar 3\Software engineering\Yahtzee\Yahtzeee\Yahtzeee\bin\Debug\Yahtzeee.pdb
+C:\Documenten van Brent\Jaar 3\Software engineering\Yahtzee\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.csprojResolveAssemblyReference.cache
+C:\Documenten van Brent\Jaar 3\Software engineering\Yahtzee\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.Properties.Resources.resources
+C:\Documenten van Brent\Jaar 3\Software engineering\Yahtzee\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.TeerlingView.resources
+C:\Documenten van Brent\Jaar 3\Software engineering\Yahtzee\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.Yahtzee.resources
+C:\Documenten van Brent\Jaar 3\Software engineering\Yahtzee\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.csproj.GenerateResource.Cache
+C:\Documenten van Brent\Jaar 3\Software engineering\Yahtzee\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.exe
+C:\Documenten van Brent\Jaar 3\Software engineering\Yahtzee\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.pdb
+D:\Glenn\Documents\School\jaar 3\software engineering\2\yahtzee3\Yahtzeee\Yahtzeee\bin\Debug\Yahtzeee.exe.config
+D:\Glenn\Documents\School\jaar 3\software engineering\2\yahtzee3\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.exe
+D:\Glenn\Documents\School\jaar 3\software engineering\2\yahtzee3\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.pdb
+D:\Glenn\Documents\School\jaar 3\software engineering\2\yahtzee3\Yahtzeee\Yahtzeee\bin\Debug\Yahtzeee.exe
+D:\Glenn\Documents\School\jaar 3\software engineering\2\yahtzee3\Yahtzeee\Yahtzeee\bin\Debug\Yahtzeee.pdb
+D:\Glenn\Documents\School\jaar 3\software engineering\2\yahtzee3\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.csprojResolveAssemblyReference.cache
+D:\Glenn\Documents\School\jaar 3\software engineering\2\yahtzee3\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.Properties.Resources.resources
+D:\Glenn\Documents\School\jaar 3\software engineering\2\yahtzee3\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.TeerlingView.resources
+D:\Glenn\Documents\School\jaar 3\software engineering\2\yahtzee3\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.Yahtzee.resources
+D:\Glenn\Documents\School\jaar 3\software engineering\2\yahtzee3\Yahtzeee\Yahtzeee\obj\Debug\Yahtzeee.csproj.GenerateResource.Cache
